@@ -6,7 +6,7 @@ This project is a Python script that monitors stock prices for a specific compan
 
 To run this script, you'll need the following:
 
-1. **Python 3.x** installed on your machine.
+1. **Python 3.12** installed on your machine.
 2. **API keys** for Alpha Vantage and News API.
 3. **Twilio account** with account SID, auth token, and a registered Twilio phone number.
 
